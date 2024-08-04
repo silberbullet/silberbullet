@@ -10,7 +10,7 @@
 
 | 기간           | 프로젝트 명               | 사용 기술                                      | 담당 업무                                      | 참고                                                                                                                                             |
 |----------------|--------------------------|----------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024.01-2024.07 | CRM 고도화 프로젝트      | Java, Spring Boot, Redis, JWT, Docker, GitLab,Git     | 프레임워크 개발, DevOps 환경 구축 | [JWT Redis IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)<br>[GitLab Runner with Docker 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting) |
+| 2024.01-2024.07 | CRM 고도화 프로젝트      | Java, Spring Boot, Redis, JWT, Docker, GitLab,Git     | 프레임워크 개발, DevOps 환경 구축 | [1) JWT Redis IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)<br>[2) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting) |
 | 2022.05-2023.12 | 현대홈쇼핑 차세대 프로젝트 | Java, Spring Boot, Kafka, Oracle, Nexacro, BitButket, Git                          | 상품 업무 기초/기준 BO 서비스, Kafka Consumer 개발               |                                                                                                                                                                         |
 
 ---

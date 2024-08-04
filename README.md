@@ -10,8 +10,8 @@
 
 | 기간           | 프로젝트 명               |          담당 업무                                      | 참고                                                                                                                                             |
 |----------------|--------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024.01-2024.07 | CRM 고도화 프로젝트 | 프레임워크 개발, DevOps 환경 구축 | [1) JWT에 Client IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)<br>[2) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting)<br>[3) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting) |
-| 2022.05-2023.12 | 현대홈쇼핑 차세대 프로젝트 | 상품 업무 기초/기준 BO 서비스 </br>Kafka Consumer 개발               |                                                                                                                                                                         |
+| 2024.01-2024.07 | CRM 고도화 프로젝트 | 프레임워크 개발, DevOps 환경 구축 | [1) JWT에 Client IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)<br>[2) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting)<br>[3) 커스텀 KeepAlive 를 통한 메뉴 히스토리 구현](https://github.com/silberbullet/menu-history-vue-framework) |
+| 2022.05-2023.12 | 현대홈쇼핑 차세대 프로젝트 | 상품 업무 기초/기준 BO 서비스 </br>Kafka Consumer 개발               |[1) 단일 내역 테이블 이력성 가지기](https://github.com/silberbullet/add-history-to-table-api)              |
 
 ---
 

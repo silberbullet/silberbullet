@@ -36,13 +36,13 @@
 - [ ] **Hosting**: Learn about hosting providers and deploying applications.
 
 ## 2. Basic Frontend Knowledge 🎨
-- [ ] **HTML**: Learn the basics of HTML.
-- [ ] **CSS**: Understand CSS and how to style web pages.
-- [ ] **JavaScript**: Learn JavaScript fundamentals.
+- [x] **HTML**: Learn the basics of HTML.
+- [x] **CSS**: Understand CSS and how to style web pages.
+- [x] **JavaScript**: Learn JavaScript fundamentals.
 
 ## 3. Version Control Systems 📂
-- [ ] **Git**: Master Git commands and workflows.
-- [ ] **GitHub/GitLab/Bitbucket**: Use a version control platform to manage repositories.
+- [x] **Git**: Master Git commands and workflows.
+- [x] **GitHub/GitLab/Bitbucket**: Use a version control platform to manage repositories.
 
 ## 4. Basic Terminal Usage 💻
 - [ ] **Basic Commands**: Learn essential terminal commands.

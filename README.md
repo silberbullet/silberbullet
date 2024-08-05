@@ -5,7 +5,7 @@
 
 ---
 
-### Tech Stack 💻
+## Tech Stack 💻
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -22,7 +22,7 @@
 </p>
 
 ---
-### Experienced 🛠️
+## Experienced 🛠️
 
 | 기간           | 프로젝트 명               |          담당 업무                                      | 참고                                                                                                                                             |
 |----------------|--------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

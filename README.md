@@ -32,28 +32,29 @@
 ## Studied 📚
 
 #### Backend Languages 📝
-- [ ] **Java**: Learn Java fundamentals.
-
-### Basic Frontend Knowledge 🎨
-- [x] **HTML,CSS,JavaScript** :
+- [x] **Java**
 
 #### Internet 🌐
-- [x] **HTTP/HTTPS**: Understand the basics of HTTP and HTTPS protocols.
+- [x] **HTTP/HTTPS**
 
 #### Version Control Systems 📂
-- [x] **Git**: Master Git commands and workflows.
-- [x] **GitHub/GitLab/Bitbucket**: Use a version control platform to manage repositories.
+- [x] **Git**
+- [x] **GitHub/GitLab/Bitbucket**
 
 #### Basic Terminal Usage 💻
-- [x] **Basic Commands**: Learn essential terminal commands.
-- [x] **SSH**: Understand how to use SSH for secure communication.
-
-#### Backend Languages 📝
-- [x] **Node.js**: Learn the basics of Node.js.
-- [x] **Python**: Understand Python for backend development.
+- [x] **SSH**
 
 #### Database and Cache 💾
-- [x] **SQL**: Learn SQL for relational databases. [My SQL Project](https://github.com/your-username/sql-project)
+- [x] **SQL**
+
+#### Authentication 🔐
+- [x] **JWT**
+
+#### CI/CD 🚀
+- [x] **GitLab CI**
+
+#### Containerization 🐳
+- [x] **Docker** 
 
 ---
 
@@ -70,7 +71,6 @@
 - [ ] **NoSQL**: Understand NoSQL databases.
 - [ ] **PostgreSQL**: Learn PostgreSQL.
 - [ ] **MongoDB**: Explore MongoDB.
-  - **Team Project**: Real-time Analytics
 - [ ] **Redis**: Understand caching with Redis.
 
 #### Web Servers 🌍
@@ -79,28 +79,22 @@
 
 #### API (REST & GraphQL) 📡
 - [ ] **REST**: Learn RESTful API principles.
-  - **Team Project**: Social Media API
 - [ ] **GraphQL**: Explore GraphQL for APIs.
 - [ ] **JSON**: Understand JSON data format.
 - [ ] **OpenAPI/Swagger**: Learn how to document APIs.
 
 #### Authentication 🔐
 - [ ] **OAuth**: Understand OAuth for authentication.
-- [ ] **JWT**: Learn about JSON Web Tokens.
-  - **Team Project**: Secure API Authentication
 - [ ] **OpenID**: Explore OpenID for identity management.
 
 #### Testing 🧪
 - [ ] **Unit Testing**: Learn the basics of unit testing.
 - [ ] **Integration Testing**: Understand integration testing.
-  - **Team Project**: Comprehensive Test Suite
 - [ ] **Functional Testing**: Explore functional testing methods.
 
 #### CI/CD 🚀
 - [ ] **Jenkins**: Learn about Jenkins for CI/CD.
 - [ ] **GitHub Actions**: Explore GitHub Actions for automation.
-  - **Team Project**: Automated Deployment Pipeline
-- [ ] **GitLab CI**: Understand GitLab CI/CD pipelines.
 
 #### Design and Development Principles 📐
 - [ ] **SOLID**: Learn the SOLID principles.
@@ -118,8 +112,6 @@
 - [ ] **Solr**: Understand Apache Solr.
 
 #### Containerization 🐳
-- [ ] **Docker**: Learn Docker for containerization.
-  - **Team Project**: Microservices with Docker
 - [ ] **Kubernetes**: Explore Kubernetes for container orchestration.
 
 #### GraphQL 📊

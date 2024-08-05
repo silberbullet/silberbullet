@@ -3,8 +3,6 @@
 
 </br>
 
----
-
 ## Tech Stack 💻
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -21,7 +19,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
----
+
 ## Experienced 🛠️
 
 | 기간           | 프로젝트 명               |          담당 업무                                      | 참고                                                                                                                                             |

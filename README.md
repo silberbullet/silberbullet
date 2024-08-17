@@ -33,9 +33,7 @@
  - 기간 : 2024.01 ~ 2024.07
  - 담당업무 : 공통 ( 프레임워크 , DevOps 구축 )
  - 기록
-     - [1) JWT에 Client IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)
-     - [2) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting)
-     - [3) 커스텀 KeepAlive 응용 메뉴 히스토리](https://github.com/silberbullet/menu-history-vue-framework)
+     - [JWT에 Client IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend),[Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting),[커스텀 KeepAlive 응용 메뉴 히스토리](https://github.com/silberbullet/menu-history-vue-framework)
    
 **3) 현대홈쇼핑 차세대 프로젝트**
  - 기간 : 2022.05 ~ 2023.12

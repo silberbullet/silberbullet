@@ -20,43 +20,41 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
-
 ## Experienced 🛠️
 
-| 기간           | 프로젝트 명               |          담당 업무                                      | 참고                                                                                                                                             |
-|----------------|--------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024.08-ing | 롯데멤버스 운영계 고도화 프로젝트 |  정산 도메인 수기 업무 자동화 처리  |  |
-| 2024.01-2024.07 | CRM 고도화 프로젝트 | 프레임워크 개발, DevOps 환경 구축 | [1) JWT에 Client IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)<br>[2) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting)<br>[3) 커스텀 KeepAlive 응용 메뉴 히스토리](https://github.com/silberbullet/menu-history-vue-framework) |
-| 2022.05-2023.12 | 현대홈쇼핑 차세대 프로젝트 | 상품 업무 기초/기준 BO 서비스 </br>Kafka Consumer 개발               |[1) 단일 내역 테이블 이력성 가지기](https://github.com/silberbullet/add-history-to-table-api)              |
+### Team Project
+
+**1) 롯데멤버스 운영계 고도화 프로젝트**
+ - 기간 : 2024.08 ~ ing
+ - 담당업무 : 정산
+ - 기록
+
+**2) CRM 고도화 프로젝트**
+ - 기간 : 2024.01 ~ 2024.07
+ - 담당업무 : 공통 ( 프레임워크 , DevOps 구축 )
+ - 기록
+     - [1) JWT에 Client IP 응용한 필터 구현](https://github.com/silberbullet/jwt-redis-ip-protection-backend)
+     - [2) Devops 트러블슈팅](https://github.com/silberbullet/gitlab-runner-with-docker-troubleshooting)
+     - [3) 커스텀 KeepAlive 응용 메뉴 히스토리](https://github.com/silberbullet/menu-history-vue-framework)
+   
+**3) 현대홈쇼핑 차세대 프로젝트**
+ - 기간 : 2022.05 ~ 2023.12
+ - 담당업무 : 상품
+ - 기록
+    - [1) 단일 내역 테이블 이력성 가지기](https://github.com/silberbullet/add-history-to-table-api) 
+
+
+### Side Project
+
 
 ---
 
-## Studied 📚
+## Study Activity 📚
 
-#### Backend Languages 📝
-- [x] **Java**
-
-#### Internet 🌐
-- [x] **HTTP/HTTPS**
-
-#### Version Control Systems 📂
-- [x] **Git**
-- [x] **GitHub/GitLab/Bitbucket**
-
-#### Basic Terminal Usage 💻
-- [x] **SSH**
-
-#### Database and Cache 💾
-- [x] **SQL**
-
-#### Authentication 🔐
-- [x] **JWT**
-
-#### CI/CD 🚀
-- [x] **GitLab CI**
-
-#### Containerization 🐳
-- [x] **Docker** 
+#### 네트워크 스터디
+ - 기간 : 2024-08-13 ~ ing
+ - 인원 : 6명
+ - 기록 : [네트워크 스터디 기록]()
 
 ---
 

@@ -52,7 +52,7 @@
 #### 네트워크 스터디
  - 기간 : 2024-08-13 ~ ing
  - 인원 : 6명
- - 기록 : [네트워크 스터디 기록]()
+ - 기록 : [네트워크 스터디 기록](https://github.com/silberbullet/network-study-diary)
 
 ---
 

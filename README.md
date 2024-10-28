@@ -32,7 +32,7 @@
 
 #### SI 프로젝트
 <details>
-    <summary>2) CRM 고도화 프로젝트</summary>
+    <summary>1) CRM 고도화 프로젝트</summary>
     <ul>
         <li>기간: 2024.01 ~ 2024.07</li>
         <li>담당업무: 공통 (프레임워크, DevOps 구축)</li>
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-    <summary>3) 현대홈쇼핑 차세대 프로젝트</summary>
+    <summary>2) 현대홈쇼핑 차세대 프로젝트</summary>
     <ul>
         <li>기간: 2022.05 ~ 2023.12</li>
         <li>담당업무: 상품</li>

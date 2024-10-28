@@ -32,15 +32,6 @@
 
 #### SI 프로젝트
 <details>
-    <summary>1) 롯데멤버스 운영계 고도화 프로젝트</summary>
-    <ul>
-        <li>기간: 2024.08 ~ 진행 중</li>
-        <li>담당업무: 정산</li>
-        <li>기록: </li>
-    </ul>
-</details>
-
-<details>
     <summary>2) CRM 고도화 프로젝트</summary>
     <ul>
         <li>기간: 2024.01 ~ 2024.07</li>
